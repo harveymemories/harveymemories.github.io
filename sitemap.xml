@@ -23,7 +23,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2018-01-02T21:17:44-06:00</lastmod>
+        <lastmod>2018-01-02T22:17:39-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -42,7 +42,7 @@
     <url>
       <loc>http://localhost:4000/css/main.css</loc>
       
-        <lastmod>2018-01-02T21:17:44-06:00</lastmod>
+        <lastmod>2018-01-02T22:17:39-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
